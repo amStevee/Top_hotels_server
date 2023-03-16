@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "npm start",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Steven .A. Anongo",
   "license": "ISC",
   "dependencies": {
     "cookie-parser": "^1.4.6",
